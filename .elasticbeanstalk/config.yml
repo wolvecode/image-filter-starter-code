@@ -1,14 +1,10 @@
 branch-defaults:
-  master:
-    environment: image-filter-starter-code-dev6
+  dev:
+    environment: image-filter-starter-code-dev7
+deploy:
+  artifact: ./www/Archive.zip
 environment-defaults:
-  image-filter-starter-code-dev4:
-    branch: null
-    repository: null
-  image-filter-starter-code-dev5:
-    branch: null
-    repository: null
-  image-filter-starter-code-dev6:
+  image-filter-starter-code-dev7:
     branch: null
     repository: null
 global:
