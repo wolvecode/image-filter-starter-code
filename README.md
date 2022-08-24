@@ -49,5 +49,6 @@ Add your own domain name and have it point to the running services (try adding a
 
 ELASTICBEANSTALK URL: http://image-filter-starter-code-dev8.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://i.pinimg.com/550x/18/3e/69/183e692d1159690f438fd1e5757df06a.jpg
 
+
 GITHUB URL: https://github.com/wolvecode/image-filter-starter-code
 
